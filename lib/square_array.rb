@@ -1,8 +1,8 @@
 def square_array(array)
 counter = 0
-pets = ["Dog", "Cat", "Fish", "Bird", "Hamster"]
+flowers = ["rose", "lotus", "daisy", "lily", "peonie"]
  
-while pets[counter] do
-  puts pets[counter]
+while flowers[counter] do
+  puts flowers[counter]
   counter += 1
 end
